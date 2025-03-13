@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMIaaDfUdGM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\garia\\Documents\\Fall 2024\\PROG32356 - Net Technologies using C#\\Week 4\\A1PatriciaGariando\\A1PatriciaGariando\\A1PatriciaGariando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garia\\.nuget\\packages\\consoletables\\2.6.2\\consoletables.2.6.2.nupkg.sha512",
+    "C:\\Users\\garia\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
